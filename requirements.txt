@@ -1,5 +1,5 @@
 streamlit
 qrcode[pil]
-opencv-python
+opencv-python-headless
 numpy
 pillow
