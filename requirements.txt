@@ -3,3 +3,4 @@ qrcode[pil]
 opencv-python
 numpy
 pillow
+cv2
